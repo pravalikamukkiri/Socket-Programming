@@ -1,0 +1,12 @@
+for running:
+open server directory in a terminal window
+	and run 'make server'
+open client directory in another terminal window
+	and run 'make client'
+
+now open server window and run './server'
+open client window and run ./client with either file names as command line arguments or just press enter to get output multiple times.
+
+run 'get <filename> <filename>' in this pattern to get files downloaded
+
+run 'exit' to exit.
